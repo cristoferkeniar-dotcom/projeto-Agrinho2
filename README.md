@@ -1,4 +1,4 @@
-# projeto-Agrinho2
+# projeto-Agrinho
 import random
 import time
 
